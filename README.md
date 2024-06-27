@@ -27,7 +27,7 @@ Implemente algum tipo de Log ao serviço e adicione as informações que forem c
 
 ## Task 3
 Sua equipe tem liberdade para escolher uma novo banco de dados.
-Faça as alterações necessárias apra se adaptar a essa nova conexão 
+Faça as alterações necessárias pra se adaptar a essa nova conexão 
 A tecnologia utilizada fica a teu critério( Mongodb, Redis, Cassandra, CouchDB, MySQL, etc...).
 
 ## Task 4
@@ -35,7 +35,7 @@ Enquanto a nova tecnologia não está pronta para produção, o Banco de Dados �
 Encontre uma maneira de aumentar a velocidade dos endpoints sem modificar o arquivo `DatabaseLenta.cs`
 
 ## Task 5
-O rojeto não tem Testes unitários, adicione-os para garantir que tudo funciona como esperado.
+O projeto não tem Testes unitários, adicione-os para garantir que tudo funciona como esperado.
 
 ## Task 6
 
